@@ -3,3 +3,5 @@ ProjectTitle: gpu
 PageList:
 - file: page.html
   ready: 50
+- file: production.html
+  ready: 50

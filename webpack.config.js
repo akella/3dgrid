@@ -19,6 +19,7 @@ function createConfig(env) {
     entry: {
       // vendor: ['jquery'],
       app: './app.js',
+      app_prod: './app_production.js',
     },
     output: {
       path: path.join(__dirname, config.dest.js),
